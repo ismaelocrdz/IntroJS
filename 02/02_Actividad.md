@@ -70,18 +70,18 @@ typeof(NaN)
 var hello
 ```
 
-> _tu respuesta_
+> _tu respuesta_undefined
 
-> _resultado en la consola_
+> _resultado en la consola_undefined
 
 9. Qué retona la siguiente expresión?
 ```
 "some" + " person"
 ```
 
-> _tu respuesta_
+> _tu respuesta_ some person
 
-> _resultado en la consola_
+> _resultado en la consola_some person
 
 10. Qué retona la siguiente expresión?
 ```
@@ -89,8 +89,7 @@ var sport;
 sport === undefined
 ```
 
-> _tu respuesta_
+> _tu respuesta_true
 
-> _resultado en la consola_
-
+> _resultado en la consola_true
 
