@@ -7,7 +7,10 @@ var num02=Number(prompt("Dame otro número:"))
 var opera=num01-num02
 console.log(opera)
 
-Math.PI*5.3**2
+var ac=5.3
+var opera=Math.PI*ac**2
+console.log(opera)
+
 
 var D=8
 var d=6
