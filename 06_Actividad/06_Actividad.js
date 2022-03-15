@@ -17,4 +17,3 @@ console.log(animals01);
 var animals01=['eagle','parrot','monkey','boar','lion'];
 animals01.shift('eagle');
 console.log(animals01);
-

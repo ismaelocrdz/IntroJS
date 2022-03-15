@@ -1,11 +1,4 @@
-let num=0;
-while (num<=12){
-    console.log(num);
-    num=num+2;
-}
-
-
-
+//Ejercicio 01 
 var Num=Number(prompt("Ingresa un número:"));
 var cont=0;
 while(cont<=Num){
@@ -14,7 +7,7 @@ while(cont<=Num){
     console.log(Number(cont));    
 }
 
-
+//Ejercicio 02
 var Num=Number(prompt("Ingresa un número:"));
 var cont=0;
 do{ 
@@ -24,19 +17,7 @@ do{
 }
 while(cont<Num)
 
+//Ejercicio 03
 for (let Num= 1; Num <= 50; Num = Num + 2) {
     console.log(Num);
     }
-    
-
-
-     
-
-
-
-
-
-
-
-
-
